@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="420.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.vya_proje_arayuz.OgretimUyesi">
+   <children>
+      <Label fx:id="kull" layoutX="126.0" layoutY="93.0" text="Kullanici Adi">
+         <font>
+            <Font size="15.0" />
+         </font></Label>
+      <Label fx:id="sifre" layoutX="126.0" layoutY="147.0" text="Sifre">
+         <font>
+            <Font size="15.0" />
+         </font></Label>
+      <TextField fx:id="kullGir" layoutX="244.0" layoutY="89.0">
+         <font>
+            <Font size="14.0" />
+         </font></TextField>
+      <TextField fx:id="sifreGir" layoutX="244.0" layoutY="143.0" onKeyTyped="#sifreGir">
+         <font>
+            <Font size="14.0" />
+         </font></TextField>
+      <Button fx:id="girisYap" layoutX="126.0" layoutY="195.0" mnemonicParsing="false" onAction="#ogrGiris" text="Giris">
+         <font>
+            <Font size="15.0" />
+         </font></Button>
+      <Label layoutX="286.0" layoutY="235.0" />
+      <Label fx:id="girisYapildi" layoutX="272.0" layoutY="244.0" />
+      <ProgressBar fx:id="sifreProgress" layoutX="231.0" layoutY="202.0" prefWidth="200.0" progress="0.0" />
+   </children>
+</AnchorPane>

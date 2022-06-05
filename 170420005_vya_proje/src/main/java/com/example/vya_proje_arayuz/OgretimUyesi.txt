@@ -1,0 +1,11 @@
+Doktor Mehmet Oz 11111111111 12.04.1972 rknmhn Teknoloji Bilgisayar Muhendisligi+Diferansiyel Denklemler+
+Profesor Ayse Yilmaz 11111111111 25.03.1978 v63alr Teknoloji Elektrik-elektronik Muhendisligi+Nesne Yonelimli Programlama+
+Doktor Hakan Unal 11111111111 30.10.1965 cd56fv Muhendislik Elektrik-elektronik Muhendisligi+Ayrik Matematik
+Docent Leyla Melek 11111111111 15.11.1965 p75yai Muhendislik Bilgisayar Muhendisligi+Mantik Devreleri+Calculus 2
+Profesor Hasan Kara 11111111111 01.06.1966 lc8ap4 Teknoloji Bilgisayar Muhendisligi+Calculus 1
+Asistan Murat Ak 11111111111 13.11.1982 vl5z8e Muhendislik Bilgisayar Muhendisligi
+Doktor Ozan Celik 11111111111 23.05.1982 l5uohr Teknoloji Elektrik-elektronik Muhendisligi+Algoritma Ve Programlama+
+Doktor Iklim Sabit 11111111111 13.06.1980 sodl3v Fen-edebiyat Istatistik +Finans 1+Iktisat+
+Docent Huseyin Meger 11111111111 02.05.1968 tl2e2s Fen-edebiyat Psikoloji +Sosyal Psikoloji+Kisilik
+Doktor Melih Hazar 11111111111 15.02.1975 gp5cy8 Fen-edebiyat Istatistik +Arastirma Metodlari+
+Doktor Meryem Poyraz 11111111111 16.08.1973 p3v3a7 Fen-edebiyat Psikoloji +Toplum Ve Kultur +

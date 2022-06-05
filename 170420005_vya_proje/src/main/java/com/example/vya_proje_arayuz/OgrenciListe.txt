@@ -1,0 +1,100 @@
+1000 Mehmet Yilmaz 01.01.2000 1111111111 abc123 Teknoloji Bilgisayar Muhendisligi
+1001 Zeynep Demir 01.01.2000 11111111111 xxxxxx Teknoloji Bilgisayar Muhendisligi
+1002 Ahmet Ucan 01.01.2000 11111111111 2hb66j Teknoloji Bilgisayar Muhendisligi
+1003 Ayse Yilmaz 01.01.2000 11111111111 qwe123 Teknoloji Bilgisayar Muhendisligi
+1004 Atacan Orak 05.07.1999 11111111111 dfh556 Muhendislik Elektrik-Elektronik Muhendisligi
+1005 Lara Kurt 01.01.2000 11111111111 asd123 Muhendislik Bilgisayar Muhendisligi
+1006 Rana Basar 01.01.2000 11111111111 dhb55f Teknoloji Bilgisayar Muhendisligi
+1007 Yaren Savas 01.01.2000 11111111111 gbb556 Muhendislik Bilgisayar Muhendisligi
+1008 Yigit Baha 01.01.2000 11111111111 jd68df Muhendislik Elektrik-Elektronik Muhendisligi
+1009 Evren Sever 01.01.2000 11111111111 evrn1s Teknoloji Elektrik-Elektronik Muhendisligi
+1010 Filiz Okyay 01.01.2000 11111111111 uky100 Teknoloji Elektrik-Elektronik Muhendisligi
+1011 İbrahim Korkmaz 01.01.2000 11111111111 5h51dd Muhendislik Bilgisayar Muhendisligi
+1012 Safa Demiray 01.01.2000 11111111111 via5ua Teknoloji Elektrik-Elektronik Muhendisligi
+1013 Elif Ak 15.07.2001 11111111111 ksnf55 Muhendislik Elektrik-Elektronik Muhendisligi
+1014 Leyla Kucuk 04.08.2001 11111111111 2dsjrs Teknoloji Elektrik-Elektronik Muhendisligi
+1016 Deniz Kahraman 25.02.2000 11111111111 p6zvyh Muhendislik Elektrik-Elektronik Muhendisligi
+1017 Mehtap Turan 30.03.2001 11111111111 u80a0l Teknoloji Elektrik-Elektronik Muhendisligi
+1018 Derya Aydin 25.07.2001 11111111111 dffhy5 Muhendislik Bilgisayar Muhendisligi
+1019 Faruk Yildiz 02.04.2002 11111111111 fgooo8 Teknoloji Elektrik-Elektronik Muhendisligi
+1020 Aylin Yasar 21.08.2001 1111111111 ihtabn Teknoloji Elektrik-Elektronik Muhendisligi
+1021 Gulsen Uzun 20.04.2000 1111111111 1dbyu7 Teknoloji Elektrik-Elektronik Muhendisligi
+1022 Ulas Erdem 02.05.1999 1111111111 ti1mby Fen-Edebiyat Istatistik
+1023 Utku Ozan 15.04.2000 1111111111 gifoy4 Fen-Edebiyat Istatistik
+1024 Senem Akman 01.01.2000 1111111111 p7odny Fen-Edebiyat Istatistik
+1025 Mustafa Demiriz 01.01.2000 111111111 b740gp Fen-Edebiyat Psikoloji
+1026 Sude İncekara 01.01.2000 111111111 ff6n76 Fen-Edebiyat Psikoloji
+1027 Kerem Muslu 01.01.2000 1111111111 gki0up Fen-Edebiyat Psikoloji
+1028 Dilara Revan 05.03.2001 111111111 b1s33l Fen-Edebiyat Psikoloji
+1029 Nesrin Saray 01.05.2000 11111111111 f7ho0e Fen-Edebiyat Psikoloji
+1030 Bensu Batar 01.02.2001 111111111111 sh8fsn Fen-Edebiyat Istatistik
+1031 Utku Tekin 16.08.2001 11111111111 e5gi6r Fen-Edebiyat Istatistik
+1032 Halim Aral 03.08.2000 111111111 ry331i Fen-Edebiyat Istatistik
+1033 Edip Ay 06.02.1999 11111111 lpvtth Fen-Edebiyat Istatistik
+1034 Cihan Akcay 26.02.1999 11111111111 8oi2ny Fen-Edebiyat Psikoloji
+1035 Emine Bayram 30.10.2000 111111111 c4scgz Fen-Edebiyat Psikoloji
+1036 Dilay Dalkilic 20.03.2001 111111111 msyumb Fen-Edebiyat Psikoloji
+1037 Hilal Conay 06.02.2000 111111111 sbb1o1 Fen-Edebiyat Istatistik
+1038 Neva Erkovan 03.02.2000 11111111111 8u7mm5 Fen-Edebiyat Psikoloji
+1039 Mert Erol 05.02.1999 11111111111 hniyr1 Fen-Edebiyat Istatistik
+1040 Rukiye Esgin 24.06.2001 111111111 0mgk6t Fen-Edebiyat Psikoloji
+1041 Faik Gezmis 03.07.2000 1111111111 m1rcc3 Fen-Edebiyat Istatistik
+1042 Kubra Gocmen 06.04.2000 1111111111 0f3vbo Muhendislik Elektrik-Elektronik Muhendisligi
+1043 Busem Gorgulu 30.12.2000 111111111 2d5are Muhendislik Elektrik-Elektronik Muhendisligi
+1044 Yesim Kavak 16.08.1999 11111111111 kaso6y Muhendislik Elektrik-Elektronik Muhendisligi
+1045 Esma Kargin 05.07.2000 11111111111 la7kr5 Muhendislik Elektrik-Elektronik Muhendisligi
+1046 Ege Orhon 13.11.2000 111111111 yejolk Muhendislik Elektrik-Elektronik Muhendisligi
+1047 Bora Okan 12.04.1999 111111111111 y8p2yp Muhendislik Elektrik-Elektronik Muhendisligi
+1048 Ufuk Pakdil 10.01.1998 11111111111 e8a6my Muhendislik Bilgisayar Muhendisligi
+1049 Aysu Pektemek 13.06.2000 1111111111 or0h5z Muhendislik Bilgisayar Muhendisligi
+1050 Can Sami 15.08.1999 1111111111 6mtat1 Muhendislik Bilgisayar Muhendisligi
+1051 Melike Demir 04.02.2002 111111111111 ri3zr2 Teknoloji Bilgisayar Muhendisligi
+1052 Nisa Kadioglu 01.12.2002 11111111111 t1c7tj Teknoloji Bilgisayar Muhendisligi
+1053 Saliha Sakarya 15.02.2000 111111 u7aoye Muhendislik Bilgisayar Muhendisligi
+1054 Sefa Yay 02.03.2000 11111111 c6j88r Muhendislik Elektrik-Elektronik Muhendisligi
+1055 Taner Yayla 16.02.1999 1111111111 duszvy Muhendislik Elektrik-Elektronik Muhendisligi
+1056 Hazar Ulusoy 18.04.2000 1111111111 amts0y Teknoloji Bilgisayar Muhendisligi
+1057 Yasar Tufan 08.11.2001 1111111111 rnctru Teknoloji Bilgisayar Muhendisligi
+1058 Lerzan Torol 16.09.2000 111111111 moc4ct Teknoloji Elektrik-Elektronik Muhendisligi
+1059 Ecenur Tokgoz 07.03.1999 111111111 0uf254 Muhendislik Bilgisayar Muhendisligi
+1060 Talya Terzi 23.07.2001 1111111111 hvm0t8 Muhendislik Elektrik-Elektronik Muhendisligi
+1061 Erdem Tayfun 13.04.2000 1111111111 0pz44e Fen-Edebiyat Istatistik
+1062 Duygu Songur 19.05.2001 111111111 mh4aav Fen-Edebiyat Istatistik
+1063 Rabia Savca 31.10.1998 1111111111 r66g6a Fen-Edebiyat Psikoloji
+1064 Umran Pomay 15.02.2000 11111111111 znbs1h Teknoloji Elektrik-Elektronik Muhendisligi
+1065 Ata Ozpolat 14.03.1999 1111111111 y0jybl Teknoloji Bilgisayar Muhendisligi
+1066 Gamze Pak 17.11.2000 11111111111 phtht4 Teknoloji Elektrik-Elektronik Muhendisligi
+1067 Giray Orman 16.02.2001 111111111 hurkuh Muhendislik Bilgisayar Muhendisligi
+1068 Beste Namli 16.05.1998 111111111 p5jpot Teknoloji Bilgisayar Muhendisligi
+1069 Ulker Manli 16.12.1999 11111111 n3ihva Fen-Edebiyat Psikoloji
+1070 Turkan Mumcu 12.06.2000 1111111111 dhu22m Teknoloji Elektrik-Elektronik Muhendisligi
+1071 Galip Merdan 01.01.2000 111111111 ddeo6h Muhendislik Bilgisayar Muhendisligi
+1072 Melis Matur 15.02.1999 1111111111 8dz6up Teknoloji Bilgisayar Muhendisligi
+1073 Berna Kunter 01.01.1999 1111111111 fczin5 Fen-Edebiyat Psikoloji
+1074 Seval Kurtan 15.02.2000 111111111 nukj4j Teknoloji Elektrik-Elektronik Muhendisligi
+1075 Guney Kuday 16.05.20000 111111111 kgv1m6 Muhendislik Bilgisayar Muhendisligi
+1076 Elis Kocak 04.04.1998 111111111 odk8i1 Teknoloji Bilgisayar Muhendisligi
+1077 Yusuf Kizil 16.03.2000 111111111 krgyb4 Fen-Edebiyat Istatistik
+1078 Emir Karacan 01.01.1999 1111111111 0bdhhb Teknoloji Bilgisayar Muhendisligi
+1079 Haluk Harman 02.05.1998 111111111 bnj630 Teknoloji Bilgisayar Muhendisligi
+1080 Aynur Hanci 16.05.2000 1111111111 2aei2m Teknoloji Elektrik-Elektronik Muhendisligi
+1081 Deha Haykir 24.06.2001 11111111111 yk58m3 Teknoloji Elektrik-Elektronik Muhendisligi
+1082 Tarik Guven 02.05.2000 111111111 8byklb Teknoloji Elektrik-Elektronik Muhendisligi
+1083 Feray Hadi 05.12.2000 11111111 dgodj7 Muhendislik Bilgisayar Muhendisligi
+1084 Birgen Garip 15.02.2001 111111111 b6sss7 Muhendislik Bilgisayar Muhendisligi
+1085 Anil Fatih 06.06.2001 11111111 zargna Muhendislik Elektrik-Elektronik Muhendisligi
+1086 Nihan Fahri 15.11.2002 111111111 tvdz1f Muhendislik Elektrik-Elektronik Muhendisligi
+1087 Irfan Ezber 16.05.2001 1111111111 epsa4y Fen-Edebiyat Psikoloji
+1088 Eyup Fahri 01.01.2000 1111111 svhgoi Fen-Edebiyat Istatistik
+1089 Tunca Eski 03.05.2001 11111111 5ked1v Fen-Edebiyat Istatistik
+1090 Ilgaz Ersin 15.08.2002 1111111111 jh85d1 Fen-Edebiyat Istatistik
+1091 Alper Derya 03.05.2002 111111111 u0mkru Teknoloji Bilgisayar Muhendisligi
+1092 Busra Devrim 16.02.2000 1111111111 kzumzd Teknoloji Elektrik-Elektronik Muhendisligi
+1093 Derya Desteci 18.07.2001 11111111 m2zmih Muhendislik Bilgisayar Muhendisligi
+1094 Haldun Bural 03.02.2001 111111111 182rfz Muhendislik Elektrik-Elektronik Muhendisligi
+1095 Arzu Can 16.09.2001 1111111 opmo2n Fen-Edebiyat Psikoloji
+1096 Yaprak Biriz 14.10.1999 1111111 3f3zdf Fen-Edebiyat Istatistik
+1097 Altan Batar 16.02.2001 11111111 dnt55d Fen-Edebiyat Psikoloji
+1098 Jale Asil 30.08.2002 1111111111 23tvi6 Fen-Edebiyat Psikoloji
+1099 Emirhan Kucuk 19.11.2000 11111111111 e4f3os Muhendislik Bilgisayar Muhendisligi
+1100 Seyda Armutcu 16.10.2001 11111111 00b861 Muhendislik Elektrik-Elektronik Muhendisligi
